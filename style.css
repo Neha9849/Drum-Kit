@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url('./background.jpg');
+  background: url('./dr.png');
   background-size: cover;
 }
 
@@ -27,7 +27,7 @@ body,html {
   width: 7rem;
   text-align: center;
   color: white;
-  background: rgba(0, 0, 0, 0.395);
+  background: rgba(0, 0, 0, 0.646);
   text-shadow: 0 0 .5rem black;
 }
 
